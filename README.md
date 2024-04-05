@@ -14,7 +14,7 @@
 4. Nosso OSM serve como a primeira calibração universalmente aplicável e independente de espécies para avaliar o conteúdo relativo de água em tecidos lenhosos usando a tecnologia FDR, oferecendo uma ferramenta valiosa para quantificar as respostas à seca e o estresse em árvores e ecossistemas florestais. 🌴
 
 
-### __About this repository__
+### _About this repository_
 This repository comprises all code and data utilised for the paper "Towards accurate monitoring of water content in woody tissue across tropical forests and other biomes".
 
 
